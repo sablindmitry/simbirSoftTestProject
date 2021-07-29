@@ -1,0 +1,6 @@
+
+
+====== WebDriver manager ======
+Current firefox version is 90.0
+Get LATEST driver version for 90.0
+Driver [/home/dmitry/.wdm/drivers/geckodriver/linux64/v0.29.1/geckodriver] found in cache

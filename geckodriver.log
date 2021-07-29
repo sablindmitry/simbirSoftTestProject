@@ -1,0 +1,22 @@
+1626815482664	geckodriver	INFO	Listening on 127.0.0.1:39067
+1626815483671	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileqZK8OU"
+1626815484943	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileqZK8OU/search.json.mozlz4", (void 0)))
+1626815494399	Marionette	INFO	Listening on port 34227
+1626815494472	Marionette	WARN	TLS certificate errors will be ignored for this session
+1626815505057	Marionette	INFO	Stopped listening on port 34227
+1627546489652	geckodriver	INFO	Listening on 127.0.0.1:47875
+1627546489656	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilekxId1S"
+1627546493784	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilekxId1S/search.json.mozlz4", (void 0)))
+1627546499906	Marionette	INFO	Listening on port 40809
+1627546500017	Marionette	WARN	TLS certificate errors will be ignored for this session
+1627546534800	Marionette	INFO	Stopped listening on port 40809
+1627546972846	geckodriver	INFO	Listening on 127.0.0.1:57133
+1627546973845	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilePE4ume"
+1627546974935	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilePE4ume/search.json.mozlz4", (void 0)))
+1627546978637	Marionette	INFO	Listening on port 35577
+1627546978687	Marionette	WARN	TLS certificate errors will be ignored for this session
+1627547006592	Marionette	INFO	Stopped listening on port 35577
+JavaScript error: https://mail.google.com/_/scs/mail-static/_/js/k=gmail.main.ru.H0LHsMktsOE.O/am=rvxfwkdgYOjswM-GUeAOgLGwJIAALGARK6WNN1BS_gfRHxKAvhaDgwE45jHQcYT5DAAAAAAAAAAAAAAAAAAAAOwKUQYB/d=1/im=1/dg=0/br=1/wt=1/rs=AHGWq9B7u-SpjV4mtu6-CW_qwFqgSfuftA/cb=loaded_0/m=b, line 1208: NS_ERROR_NOT_INITIALIZED: 

@@ -1,0 +1,6 @@
+[32mINFO    [0m WDM:logger.py:12 
+
+[32mINFO    [0m WDM:logger.py:12 ====== WebDriver manager ======
+[32mINFO    [0m WDM:logger.py:12 Current firefox version is 90.0
+[32mINFO    [0m WDM:logger.py:12 Get LATEST driver version for 90.0
+[32mINFO    [0m WDM:logger.py:12 Driver [/home/dmitry/.wdm/drivers/geckodriver/linux64/v0.29.1/geckodriver] found in cache
