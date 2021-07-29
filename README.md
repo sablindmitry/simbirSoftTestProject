@@ -1,4 +1,5 @@
-# simbirSoftTestProject
+# simbirSoftTestProj
+
 
 From test requirements was done:
 1. Gmail auth via selenuim
@@ -7,4 +8,4 @@ From test requirements was done:
 4. Using pytest
 5. Generating allure reports
 
-Not done run tests via Selenium Grid
+Not done run tests via Selenium Grid ( never was in touch with selenium and testing before )
