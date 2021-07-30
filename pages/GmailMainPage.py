@@ -37,7 +37,7 @@ class GmailMainPage(BasePage):
 
     def create_email(self):
         self.send_keys(self.EMAIL_RECEIVER_LOCATOR, TestData.EMAIL_TO_SEND)
-        self.send_keys(self.EMAIL_SUBJECT_LOCATOR, TestData.EMAIL_SUBJECT_FILTER + TestData.MY_SURNAME)
+        self.send_keys(self.EMAIL_SUBJECT_LOCATOR, f'{TestData.EMAIL_SUBJECT_FILTER}  -  {TestData.MY_SURNAME}')
         self.send_keys(self.EMAIL_BODY_LOCATOR, f'Писем с темой "Simbirsoft Тестовое задание" найдено - {self.get_emails_counter()}')
         self.click_func(self.SEND_EMAIL_BUTTON_LOCATOR)
 
